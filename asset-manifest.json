@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Integradora-2/static/css/main.e9c12acc.css",
+    "main.js": "/Integradora-2/static/js/main.248e50fc.js",
+    "static/js/453.4759f8d2.chunk.js": "/Integradora-2/static/js/453.4759f8d2.chunk.js",
+    "index.html": "/Integradora-2/index.html",
+    "main.e9c12acc.css.map": "/Integradora-2/static/css/main.e9c12acc.css.map",
+    "main.248e50fc.js.map": "/Integradora-2/static/js/main.248e50fc.js.map",
+    "453.4759f8d2.chunk.js.map": "/Integradora-2/static/js/453.4759f8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c12acc.css",
+    "static/js/main.248e50fc.js"
+  ]
+}
